@@ -1,0 +1,6 @@
+com\recipes\entities\Chef.class
+com\recipes\worker\RabbitMQConfig.class
+com\recipes\entities\Recipe$RecipeStatus.class
+com\recipes\worker\RecipeWorkerApplication.class
+com\recipes\entities\Recipe.class
+com\recipes\worker\MessageListeners.class
