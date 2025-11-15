@@ -178,35 +178,3 @@ For production deployment:
 3. Set strong JWT secret
 4. Configure RabbitMQ for production
 5. Deploy both main application and worker
-
-## Documentation
-
-- [API Documentation](API_DOCUMENTATION.md) - Detailed API endpoint specifications
-- [Project Summary](PROJECT_SUMMARY.md) - High-level overview of the platform
-- [Design Principles](DESIGN_PRINCIPLES.md) - SOLID principles and design patterns used
-- [Testing Guide](TESTING_GUIDE.md) - How to test the application
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
-## Submission Instructions
-
-To submit this project:
-
-1. Create a new public repository on GitHub
-2. Push this code to your new repository:
-   ```bash
-   git remote add origin https://github.com/your-username/ShareMyRecipeAPIPlatform.git
-   git branch -M main
-   git push -u origin main
-   ```
-3. Create a pull request to the original repository as requested
-
-## License
-
-This project is licensed under the MIT License.
